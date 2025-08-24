@@ -1,5 +1,7 @@
 # Autopwn Netmon - HackTheBox
 
+<img width="1050" height="480" alt="image" src="https://github.com/user-attachments/assets/ef6c6a9c-1f19-48fc-b4ce-a452027a8591" />
+
 ## 📖 Descripción
 Explotación automática de la máquina Netmon de HackTheBox aprovechando el acceso anónimo a FTP y la vulnerabilidad en **PRTG Network Monitor**.  
 
